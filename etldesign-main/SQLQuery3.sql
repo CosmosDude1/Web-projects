@@ -1,0 +1,2 @@
+    -- EXEC sp_serveroption 'MyLinked', 'rpc out', 'true';
+    -- EXEC sp_serveroption 'MyLinked', 'data access', 'true';
